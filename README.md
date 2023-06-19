@@ -2,7 +2,7 @@
 
 Data Structures:
 - Doubly linked list
-- Fibonacci heap (WIP)
+- Fibonacci heap
 - Weighted graph (WIP)
 - Flow graph (WIP)
 - Range query structures (WIP)
